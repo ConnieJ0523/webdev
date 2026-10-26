@@ -1,0 +1,25 @@
+body       {
+    background-image: url(spotlight.jpg);
+    background-size:cover;
+    margin:0;
+
+}
+#wrapper        {
+    width:85%;
+    background-color: #FE4600;
+    margin-left:auto;
+    margin-right: auto;
+    height:500px;
+    padding:10px;
+
+}
+#title      {
+  /* background-color: black;*/
+   color: white;
+   text-align:center;
+}
+#main       {
+  font-family:verdana, sans-serif;
+  font-size: 14pt;
+
+}
